@@ -1,27 +1,24 @@
-Litecoin Core integration/staging tree
+MineCoin - MineCorp Cryptocurrency
 =====================================
 
-[![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
-
-https://litecoin.org
-
-What is Litecoin?
+What is MineCoin?
 ----------------
 
-Litecoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Litecoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Litecoin Core is the name of open source
-software which enables the use of this currency.
+MineCoin is an experimental digital currency *forked from Litecoin Core* that enables payments to
+anyone using MineWeb.
 
-For more information, as well as an immediately useable, binary version of
-the Litecoin Core software, see [https://litecoin.org](https://litecoin.org).
 
 License
 -------
 
 Litecoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
+
+MineCoin follows the rules and kept the COPYING file, and is only meant for MineWeb **specifically**.
+
+
+# NOTICE:
+Anything following this is written by Litecoin and has the same text. MineCoin is not responsible for any forks of MineCoin that do not contain it.
 
 Development Process
 -------------------
